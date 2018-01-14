@@ -1,0 +1,6 @@
+[submodule "cinder"]
+	path = cinder
+	url = https://github.com/cinder/Cinder.git
+[submodule "FFmpeg"]
+	path = FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg
