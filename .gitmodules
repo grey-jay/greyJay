@@ -4,3 +4,12 @@
 [submodule "FFmpeg"]
 	path = FFmpeg
 	url = https://github.com/FFmpeg/FFmpeg
+[submodule "openh264"]
+	path = openh264
+	url = https://github.com/cisco/openh264
+[submodule "x264"]
+	path = x264
+	url = git://git.videolan.org/x264.git
+[submodule "x265"]
+	path = x265
+	url = https://github.com/videolan/x265
